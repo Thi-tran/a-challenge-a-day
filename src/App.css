@@ -41,7 +41,9 @@
 h3{
   margin-top: 20px;
 }
-
+h4{
+  font-size: 20px;
+}
 h5{
   margin-top: 50px;
 }
@@ -68,5 +70,4 @@ h5{
 
 .body {
   text-align: center;
-  margin-top: 50px;
 }

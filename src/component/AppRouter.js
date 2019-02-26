@@ -5,7 +5,7 @@ import Header from './Header';
 import AddChallenge from './AddChallenge';
 import ShowChallenge from './ShowChallenge';
 const AppRouter = () => (
-    <div class="body">
+    <div className="body">
         <Header />
         <ShowChallenge />
         <AddChallenge />
