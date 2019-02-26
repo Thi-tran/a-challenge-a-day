@@ -19,7 +19,7 @@ const database = firebase.database();
 // });
 
 // database.ref('challenge').push({
-//     title: 'learn 50 Finnish words'
+//     title: '(contributed challenged) French kiss a stranger'
 // });
 // database.ref('challenge').push({
 //     title: 'start an IT project'
