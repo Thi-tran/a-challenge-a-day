@@ -1,4 +1,4 @@
-### A challenge A Day project
+## A challenge A Day project
 
 A web app that user can randomly choose a challenge, finish, and share with everyone about it. In this project, I play with 
 ### React, Redux, Firebase and local storage
